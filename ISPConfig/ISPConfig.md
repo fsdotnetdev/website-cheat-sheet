@@ -25,4 +25,4 @@ Then restart ISPConfig via '/etc/init.d/ispconfig_server restart'
 ```
 
 ## License
-Webneena license.
+Codeinsane license.

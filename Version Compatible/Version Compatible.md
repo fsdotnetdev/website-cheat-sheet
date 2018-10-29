@@ -32,7 +32,7 @@ $ HEAD localhost
 ```
 
 ## License
-Webneena license.
+Codeinsane license.
 
 ## Credit
 http://www.fromdual.com/innodb-version

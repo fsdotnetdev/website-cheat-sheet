@@ -29,7 +29,7 @@ https://www.monero.how/tutorial-how-to-mine-monero
 ```
 
 ## License
-Webneena license.
+Codeinsane license.
 
 ## Credit
 https://www.2-spyware.com/remove-monero-miner.html
